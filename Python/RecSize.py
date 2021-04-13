@@ -6,8 +6,8 @@ hight=input()
 print("One Moment Please \nPRESS ENTER")
 input()
 area = int(lenght) * int(hight)
-parimiter = int(lenght) + int(hight)
-int(parimiter) * 2
+parimiter = int(lenght) + int(hight) * 2
+#int(parimiter) * 2
 print("Your Rectangle")
 print("Has a width of", lenght,"(cm) wide")
 print("Has a hight of", hight,"(cm)tall")
