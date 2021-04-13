@@ -1,3 +1,4 @@
+#Failed Code Attempt
 #print("What Year Is it")
 #year=input()
 #print("So it is", year, "Already")
@@ -9,6 +10,7 @@
 #Subtract = int(year) - int(birth)
 #print(Subtract)
 
+#Working Code
 print("What Year Is it")
 year=input()
 print("Thank you, now I am able to tell you when you will turn 100 \nSo what is your name again")
