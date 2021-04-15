@@ -1,0 +1,11 @@
+from turtle import*
+turtle = Turtle()
+screen = Screen()
+turtle.left(90)
+turtle.forward(180)
+turtle.left(90)
+turtle.forward(360)
+turtle.left(90)
+turtle.forward(180)
+turtle.left(90)
+turtle.forward(360)
