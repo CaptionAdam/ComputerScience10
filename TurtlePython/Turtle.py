@@ -23,3 +23,4 @@ screen = Screen()
 for i in range(8):
     turtle.write(i)
     turtle.forward(20)
+input("Press any key to exit ...")
