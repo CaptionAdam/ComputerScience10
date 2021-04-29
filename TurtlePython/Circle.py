@@ -2,6 +2,8 @@ from turtle import*
 turtle = Turtle()
 screen = Screen()
 
+turtle.speed(1000)
+
 screen.colormode(255)
 #Screen Color
 R = 0
