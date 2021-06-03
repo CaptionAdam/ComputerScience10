@@ -1,0 +1,17 @@
+use_synth :dark_ambience
+play 65
+play 69
+sleep 0.5
+play 65
+sleep 0.2
+play 63
+sleep 0.5
+play 65
+sleep 0.5
+play 65
+sleep 0.5
+play 65
+sleep 0.5
+play 60
+sleep 0.2
+play 65
