@@ -57,5 +57,7 @@ turtle.goto(-30, 120)
 turtle.pd()
 turtle.circle(20)
 turtle.circle(10)
+turtle.pu()
+turtle.goto(-500,-500)
 
 input("Press any key to exit ...")
